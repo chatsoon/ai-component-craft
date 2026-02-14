@@ -39,7 +39,7 @@ export class AIGenerator {
         styling: config.styling || 'css',
         timestamp: new Date().toISOString()
       };
-    } catch (error) {
+    } catch (error: any) {
       throw new Error(`Failed to generate component: ${error.message}`);
     }
   }

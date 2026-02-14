@@ -6,8 +6,8 @@ import chalk from 'chalk';
 import ora from 'ora';
 import fs from 'fs-extra';
 import path from 'path';
-import { AIGenerator } from './core/generator';
-import { ComponentConfig, CLIOptions } from './types';
+import { AIGenerator } from '../core/generator';
+import { ComponentConfig, CLIOptions } from '../types';
 
 const program = new Command();
 
@@ -100,7 +100,7 @@ program
       console.log(chalk.blue('\n生成的组件代码:\n'));
       console.log(component.code);
 
-    } catch (error) {
+    } catch (error: any) {
       console.error(chalk.red('错误:'), error.message);
       process.exit(1);
     }
