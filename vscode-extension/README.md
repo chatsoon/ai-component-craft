@@ -128,9 +128,9 @@ MIT License
 
 ## 🔗 链接
 
-- [GitHub](https://github.com/yourname/ai-component-craft)
-- [文档](https://github.com/yourname/ai-component-craft#readme)
-- [问题反馈](https://github.com/yourname/ai-component-craft/issues)
+- [GitHub](https://github.com/chatsoon/ai-component-craft)
+- [文档](https://github.com/chatsoon/ai-component-craft#readme)
+- [问题反馈](https://github.com/chatsoon/ai-component-craft/issues)
 
 ---
 
