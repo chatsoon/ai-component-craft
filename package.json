@@ -28,16 +28,16 @@
     "cli",
     "vscode-extension"
   ],
-  "author": "Your Name",
+  "author": "chatsoon",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourname/ai-component-craft.git"
+    "url": "https://github.com/chatsoon/ai-component-craft.git"
   },
   "bugs": {
-    "url": "https://github.com/yourname/ai-component-craft/issues"
+    "url": "https://github.com/chatsoon/ai-component-craft/issues"
   },
-  "homepage": "https://github.com/yourname/ai-component-craft#readme",
+  "homepage": "https://github.com/chatsoon/ai-component-craft#readme",
   "dependencies": {
     "openai": "^4.0.0",
     "commander": "^11.0.0",
